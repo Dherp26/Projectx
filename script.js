@@ -1,7 +1,7 @@
 var textWrapper = document.querySelector(".ml1 .letters");
 textWrapper.innerHTML = textWrapper.textContent.replace(/\S/g, "<span class='letter'>$&</span>");
 var i = 0;
-var txt = "Hari demi hari telah kita berdua lewati bersama, baik keadaan suka maupun duka, saling melengkapi dan saling mengasihi sebagai pasangan. Yang aku tahu, berada di sampingmu adalah kebahagiaan terbesar untukku. Terima kasih karena membuatku menjadi orang yang lebih baik dengan cinta darimu. Pada hari ini, yang merupakan hari istimewa untuk kita berdua, aku mau ngucapin, happy anniversary sayangku. Aku sayang kamu Annisa Aulia 💜";
+var txt = "You are the one for me, 你是我一生的挚爱, 你是我灵魂的伴侣, 我们一起变老吧！我们是命中注定在一起, 你对我而言如此重要 💜";
 var speed = 90;
 
 anime.timeline({ loop: true })
